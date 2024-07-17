@@ -1,0 +1,25 @@
+*:not(pre){
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+    outline: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    padding-left: 16px;
+}
+h1{
+    /*margin: 48px 0 46px 0;*/
+    margin: 48px 0px;
+    /*margin-top: 48px;
+    margin-bottom: 48px;
+    margin-left: 0px;
+    margin-right: 0px;*/
+}
+h2{
+    margin-bottom: 24px;
+}
+p{
+    margin-bottom: 16px;
+}
